@@ -126,5 +126,3 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 📬 Contact
-Feel free to reach out if you have questions or want to collaborate! 
